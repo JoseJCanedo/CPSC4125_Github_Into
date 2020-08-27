@@ -1,7 +1,7 @@
 $(document).ready(function() {
     // all custom jQuery will go here
-    $("button").click(function(){
-        console.log('yay')
-    })
+    // $(".jumbotron-button").click(function(){
+    //     $(".test").html("<b>Hello world!</b>");
+    // })
 
 });
